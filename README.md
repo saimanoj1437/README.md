@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Mern Full Stack and Data Science**
 
 - 📫 How to reach me **manojbhaskar862@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
